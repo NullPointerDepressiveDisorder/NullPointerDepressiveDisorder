@@ -29,7 +29,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🏫 Computer Science student at **Northeastern University**
-- 💼 Marketing lead at **LANE** (LinkedIn at Northeastern) - helping students build their professional networks
+- 💼 Programming Director at **LANE** (LinkedIn at Northeastern) - helping students build their professional networks
 - 🧮 Passionate about **Discrete Mathematics** and **Combinatorics** - I love finding elegant solutions to complex problems!
 - 🧬 Currently diving deep into **Biomolecules** and **Functional Groups** for my Biology coursework
 - 🔐 Building secure systems with **LUKS encryption**, **UFW firewall**, and **Fail2Ban**
