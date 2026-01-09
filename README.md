@@ -24,17 +24,28 @@
 
 ---
 
-## 🎓 About Me
+## 📌 Featured Work
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="https://github.com/NullPointerDepressiveDisorder/MiddleDrag">
+  <img align="right" src="https://github.com/NullPointerDepressiveDisorder/MiddleDrag/raw/main/docs/assets/demo.gif" width="280" alt="MiddleDrag Demo">
+</a>
 
-- 🏫 Computer Science student at **Northeastern University**
-- 💼 Programming Director at **LANE** (LinkedIn at Northeastern) - helping students build their professional networks
-- 🧮 Passionate about **Discrete Mathematics** and **Combinatorics** - I love finding elegant solutions to complex problems!
-- 🧬 Currently diving deep into **Biomolecules** and **Functional Groups** for my Biology coursework
-- 🔐 Building secure systems with **LUKS encryption**, **UFW firewall**, and **Fail2Ban**
-- 🚀 Always questioning approaches to find simpler, more elegant solutions
-- 💡 Strong believer in attention to detail and technical rigor
+### MiddleDrag
+
+Open-source macOS utility solving a 17-year-old pain point for MacBook users.
+
+**Technical highlights:**
+- Uses Apple's private `MultitouchSupport` framework for raw touch interception
+- Works *with* system gestures (Mission Control stays functional)
+- Notarized & code-signed via automated GitHub Actions CI/CD
+- Distributed via Homebrew tap with planned MacPorts/Nixpkgs support
+
+[![Repo](https://img.shields.io/badge/GitHub-MiddleDrag-181717?logo=github)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
+[![Homebrew](https://img.shields.io/badge/Homebrew-tap-brown?logo=homebrew)](https://github.com/NullPointerDepressiveDisorder/homebrew-tap)
+[![Downloads](https://img.shields.io/github/downloads/NullPointerDepressiveDisorder/MiddleDrag/total)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases)
+[![GitHub stars](https://img.shields.io/github/stars/NullPointerDepressiveDisorder/MiddleDrag?style=social)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag)
+
+---
 
 ### 🎯 Current Focus
 
@@ -42,7 +53,7 @@
 class CurrentlyWorking:
     def __init__(self):
         self.coursework = ["Discrete Mathematics", "Biology", "Data Structures"]
-        self.projects = ["Secure Server Setup", "LANE Marketing Materials"]
+        self.projects = ["Secure Server Setup", "MiddleDrag"]
         self.learning = ["Advanced Combinatorics", "System Security"]
         self.tools = ["Claude Code VS Code Extension", "GPG Commit Signing"]
     
@@ -63,6 +74,7 @@ class CurrentlyWorking:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -127,11 +139,7 @@ class CurrentlyWorking:
 
 ## 🎯 Current Projects
 
-<div align="center">
 
-| 🔒 Secure Server Infrastructure | 📊 LANE Marketing Analytics |
-|:---:|:---:|
-| Building a hardened Ubuntu server with LUKS encryption, UFW firewall, and AIDE file integrity monitoring | Creating Oauth2 flow for LinkedIn at Northeastern student organization #Fullstack |
 
 </div>
 
