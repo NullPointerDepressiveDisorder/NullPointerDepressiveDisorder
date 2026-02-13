@@ -11,9 +11,6 @@
   <a href="mailto:karan@karankm.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/NullPointerDepressiveDisorder">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br>
@@ -123,9 +120,7 @@ class CurrentlyWorking:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=NullPointerDepressiveDisorder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](![trophies](https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/trophies/trophy.svg))](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -133,14 +128,6 @@ class CurrentlyWorking:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NullPointerDepressiveDisorder&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 Current Projects
-
-
-
 </div>
 
 ---
