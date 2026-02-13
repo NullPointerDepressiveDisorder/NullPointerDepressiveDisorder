@@ -105,7 +105,7 @@ class CurrentlyWorking:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullPointerDepressiveDisorder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Karan's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/svgs/stats.svg" alt="Karan's GitHub Stats" />
 </div>
 
 <div align="center">
@@ -113,14 +113,14 @@ class CurrentlyWorking:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPointerDepressiveDisorder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/svgs/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/trophies/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/svgs/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
