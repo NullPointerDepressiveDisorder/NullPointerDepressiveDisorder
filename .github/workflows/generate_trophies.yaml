@@ -9,6 +9,9 @@ jobs:
   generate-trophies:
     runs-on: ubuntu-slim
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
