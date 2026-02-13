@@ -120,7 +120,7 @@ class CurrentlyWorking:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](![trophies](https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/trophies/trophy.svg))](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/NullPointerDepressiveDisorder/NullPointerDepressiveDisorder/trophies/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
