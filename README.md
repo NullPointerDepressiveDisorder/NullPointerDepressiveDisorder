@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/karan-mohindroo-3b6533332/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohindroo.k@northeastern.edu">
+  <a href="mailto:karan@karankm.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/NullPointerDepressiveDisorder">
@@ -124,7 +124,7 @@ class CurrentlyWorking:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NullPointerDepressiveDisorder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  ![trophy](https://github-profile-trophy.vercel.app/?username=NullPointerDepressiveDisorder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
@@ -180,7 +180,7 @@ class CurrentlyWorking:
   
   <br><br>
   
-  **📧 Reach out to me at:** mohindroo.k@northeastern.edu
+  **📧 Reach out to me at:** karan@karankm.com
   
   <br>
   
