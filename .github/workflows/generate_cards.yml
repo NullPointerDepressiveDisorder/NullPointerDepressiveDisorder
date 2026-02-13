@@ -1,4 +1,4 @@
-name: Generate Stats
+name: Generate Cards
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   id-token: write
 
 jobs:
-  generate-stats:
+  generate-cards:
     runs-on: ubuntu-slim
     steps:
       - name: Checkout
@@ -24,8 +24,16 @@ jobs:
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
-            add: 'stats.svg'
-            message: "Update GitHub Profile Stats"
+            add: '["stats.svg", "top-langs.svg"]'
+            message: "Update GitHub Profile Cards"
