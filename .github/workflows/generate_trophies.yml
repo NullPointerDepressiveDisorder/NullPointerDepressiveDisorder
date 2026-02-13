@@ -13,5 +13,4 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: NullPointerDepressiveDisorder
-          output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
