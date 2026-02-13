@@ -64,7 +64,7 @@ class CurrentlyWorking:
 
 <div align="center">
 
-  ### 🚧🚧Section Under Construction🚧🚧
+  ### 🚧🚧 Section Under Construction 🚧🚧
 
 </div>
 
