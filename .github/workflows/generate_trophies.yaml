@@ -1,0 +1,22 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-trophies:
+    runs-on: ubuntu-slim
+    steps:
+      - name: Generate Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: NullPointerDepressiveDisorder
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+            add: 'trophy.svg'
+            message: "Update GitHub Profile Trophies"
