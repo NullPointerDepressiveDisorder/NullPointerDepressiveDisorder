@@ -24,7 +24,7 @@
 ## 📌 Featured Work
 
 <a href="https://github.com/NullPointerDepressiveDisorder/MiddleDrag">
-  <img align="right" src="https://github.com/NullPointerDepressiveDisorder/MiddleDrag/raw/main/docs/assets/demo.gif" width="280" alt="MiddleDrag Demo">
+  <img align="right" src="https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/gh-pages/docs/assets/demo.gif" width="280" alt="MiddleDrag Demo">
 </a>
 
 ### MiddleDrag
